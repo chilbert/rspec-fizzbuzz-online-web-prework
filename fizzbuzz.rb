@@ -2,6 +2,6 @@
 # See README.md for instructions on how to do this
 #
 def fizzbuzz
-  1
+  print "1"
 
 end
